@@ -1,0 +1,9 @@
+Building Cista
+
+See doc/readme-qt.rst for instructions on building Cista QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cista.
+
+See doc/build-*.txt for instructions on building Cistad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cista.
